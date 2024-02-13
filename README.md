@@ -15,7 +15,7 @@ This Python demo provides an implementation of the "Low-Complexity Regression wi
 
 ## Project Description
 
-This demo showcases the "Low Complexity Regression with Gaussian Process Prior" method, which combines the benefits of the standard Gaussian process with complexity and memory reduction with truncated covariance functions.
+This demo showcases the "Low Complexity Regression with Gaussian Process Prior" method, which combines the benefits of the standard Gaussian process with complexity and memory reduction based on truncated covariance functions.
 
 ## Installation
 
