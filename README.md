@@ -23,7 +23,7 @@ To run this Python demo, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open jupyter notebook and navigate to the project directory.
-3. Run the `demo.ipynb` file to execute the code for test of a single spherical mean.
+3. Run the `demo.ipynb` file to execute the code.
 4. Follow the instructions in the demo to explore and analyze the results.
 
 Make sure you have Python installed and any required dependencies are properly set up.
